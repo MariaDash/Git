@@ -8,10 +8,11 @@
 - Postman
 - Jmeter
 - CheckLists
-- Bag Reports
+- Bug_Reports
 - SQL
-- Charles
-- Mobile testing
+- Charles_Proxy
+- Mobile_Testing
+
 Precondition: 
 1. Create remote repository Git ( at Github site)
 2. Execute git clone command
