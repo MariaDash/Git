@@ -15,7 +15,7 @@
 
 Precondition: 
 1. Create remote repository Git ( at Github site)
-2. Execute git clone command
+2. Execute `git clone` command
 ```
 Admin@DESKTOP-V6V9F0T MINGW64 /d/Testing_Course/Git
 $ git clone https://github.com/MariaDash/Git.git
