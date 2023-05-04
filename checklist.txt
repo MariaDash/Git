@@ -1,0 +1,23 @@
+site           Firefox    Google Chrome       Opera
+                version    version            version
+Regisrtation     
+
+Email
+Social media
+Field validation
+
+Authorisation
+
+User logged in
+User not logged in
+Recovery password
+Field Validation
+
+Profile
+
+Name change
+Email change
+Password change
+Field Validation
+Delete account
+
