@@ -8,7 +8,7 @@
 - Charles_Proxy
 - Mobile_Testing
 
-Precondition: 
+### Precondition: 
 1. Create remote repository Git ( at Github site)
 2. Execute `git clone` command
 ```
@@ -40,7 +40,7 @@ origin  https://github.com/MariaDash/Git.git (push)
 Admin@DESKTOP-V6V9F0T MINGW64 /d/Testing_Course/Git/Git (main)
 $
 ```
-Working with branch creation:
+### Working with branch creation:
 ```
 Admin@DESKTOP-V6V9F0T MINGW64 /d/Testing_Course/Git/Git (main)
 $ git branch Postman
