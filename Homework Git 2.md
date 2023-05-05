@@ -1,7 +1,7 @@
 # Homework 2.
 + [1. On local repository create branches:](https://github.com/MariaDash/Git/blob/main/Homework%20Git%202.md#1-on-local-repository-create-branches)
-    [Precondition](https://github.com/MariaDash/Git/blob/main/Homework%20Git%202.md#precondition)
-    [Working with branch creation](https://github.com/MariaDash/Git/blob/main/Homework%20Git%202.md#working-with-branch-creation)
+    [- Precondition](https://github.com/MariaDash/Git/blob/main/Homework%20Git%202.md#precondition)
+    [- Working with branch creation](https://github.com/MariaDash/Git/blob/main/Homework%20Git%202.md#working-with-branch-creation)
 + [2. Push all branches to remote repository](https://github.com/MariaDash/Git/blob/main/Homework%20Git%202.md#2-push-all-branches-to-remote-repository)
 + [3. In Bug_Reports branch create a txt file with bugreport structure](https://github.com/MariaDash/Git/blob/main/Homework%20Git%202.md#3-in-bug_reports-branch-create-a-txt-file-with-bugreport-structure)
 + [4. Push the file to the remote repository](https://github.com/MariaDash/Git/blob/main/Homework%20Git%202.md#4-push-the-file-to-the-remote-repository)
