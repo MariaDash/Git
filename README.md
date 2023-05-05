@@ -1,7 +1,7 @@
 # Homework 1 Basic Git commands in GitBash 
-## 1. https://github.com/MariaDash/Json
-## 2. https://github.com/MariaDash/XML
-## 3. https://github.com/MariaDash/TXT
+   1. https://github.com/MariaDash/Json
+   2. https://github.com/MariaDash/XML
+   3. https://github.com/MariaDash/TXT
 
 # Homework 2 Basic Git commands in GitBash 
 + [1. On local repository create branches:](https://github.com/MariaDash/Git/blob/main/Homework%20Git%202.md#1-on-local-repository-create-branches)
