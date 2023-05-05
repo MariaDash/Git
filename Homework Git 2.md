@@ -144,7 +144,7 @@ branch 'Mobile_Testing' set up to track 'origin/Mobile_Testing'.
 Admin@DESKTOP-V6V9F0T MINGW64 /d/Testing_Course/Git/Git (main)
 $
 ```
-## 3. In Bug_Reports branch create a txt file with bugreport structure.
+## 3. In Bug_Reports branch create a txt file with bugreport structure
 ```
 Admin@DESKTOP-V6V9F0T MINGW64 /d/Testing_Course/Git/Git (main)
 $ git checkout Bug_Reports
@@ -201,7 +201,7 @@ To https://github.com/MariaDash/Git.git
 Admin@DESKTOP-V6V9F0T MINGW64 /d/Testing_Course/Git/Git (Bug_Reports)
 $
 ```
-## 5. Merge Bug_Reports branch to main.
+## 5. Merge Bug_Reports branch to main
 ```
 Admin@DESKTOP-V6V9F0T MINGW64 /d/Testing_Course/Git/Git (Bug_Reports)
 $ git checkout main
@@ -289,7 +289,7 @@ $
 ## 9.  On the remote repository make Pull request from Checklists branch to main
 MariaDash merged 1 commit into main from CheckLists 1 minute ago
 
-## 10. Sinchronize remote main branch and local main branch.
+## 10. Sinchronize remote main branch and local main branch
 
 ```
 Admin@DESKTOP-V6V9F0T MINGW64 /d/Testing_Course/Git/Git (CheckLists)
