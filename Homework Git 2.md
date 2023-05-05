@@ -2,6 +2,7 @@
 + [1. On local repository create branches:](https://github.com/MariaDash/Git/blob/main/Homework%20Git%202.md#1-on-local-repository-create-branches)
 
     [- Precondition](https://github.com/MariaDash/Git/blob/main/Homework%20Git%202.md#precondition)
+    
     [- Working with branch creation](https://github.com/MariaDash/Git/blob/main/Homework%20Git%202.md#working-with-branch-creation)
     
 + [2. Push all branches to remote repository](https://github.com/MariaDash/Git/blob/main/Homework%20Git%202.md#2-push-all-branches-to-remote-repository)
