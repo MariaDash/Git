@@ -1,3 +1,9 @@
+ID:
+Build/version:
+Date:
+Tester:
+Test type: (Choose your test type, e.g. Smoke, CP, EXT, etc.)
+
 site           Firefox    Google Chrome       Opera
                 version    version            version
 Regisrtation     
