@@ -159,6 +159,14 @@ branch 'Mobile_Testing' set up to track 'origin/Mobile_Testing'.
 Admin@DESKTOP-V6V9F0T MINGW64 /d/Testing_Course/Git/Git (main)
 $
 ```
+Or you can push all at a time:
+```
+Admin@DESKTOP-V6V9F0T MINGW64 /d/Testing_Course/Git/Git (main)
+$git push -u origin --all
+
+Admin@DESKTOP-V6V9F0T MINGW64 /d/Testing_Course/Git/Git (main)
+$
+```
 ## 3. In Bug_Reports branch create a txt file with bugreport structure
 ```
 Admin@DESKTOP-V6V9F0T MINGW64 /d/Testing_Course/Git/Git (main)
