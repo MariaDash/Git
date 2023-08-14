@@ -19,3 +19,5 @@
 + [8. Push the file to remote repository](https://github.com/MariaDash/Git/blob/main/Homework%20Git%202.md#8-push-the-file-to-remote-repository)
 + [9. On the remote repository make Pull request from Checklists branch to main](https://github.com/MariaDash/Git/blob/main/Homework%20Git%202.md#9--on-the-remote-repository-make-pull-request-from-checklists-branch-to-main)
 + [10. Sinchronize remote main branch and local main branch](https://github.com/MariaDash/Git/blob/main/Homework%20Git%202.md#10-sinchronize-remote-main-branch-and-local-main-branch)
+# [Git Additional repository](https://github.com/MariaDash/Git_Additional)
+Working with additional git commands, resolving different conflicts
