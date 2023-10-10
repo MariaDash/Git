@@ -1,4 +1,5 @@
 # [Part 1 Basic Git commands in GitBash](https://github.com/MariaDash/Git/blob/main/Git%20%20Part1.md) 
+Creating and cloning repositories, working with local repositories, git add, git commit, git push, git status, git pull
    1. https://github.com/MariaDash/Json
    2. https://github.com/MariaDash/XML
    3. https://github.com/MariaDash/TXT
