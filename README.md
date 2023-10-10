@@ -21,4 +21,4 @@ Creating and cloning repositories, working with local repositories, git add, git
 + [9. On the remote repository make Pull request from Checklists branch to main](https://github.com/MariaDash/Git/blob/main/Git%20Part2.md#9--on-the-remote-repository-make-pull-request-from-checklists-branch-to-main)
 + [10. Sinchronize remote main branch and local main branch](https://github.com/MariaDash/Git/blob/main/Git%20Part2.md#10-sinchronize-remote-main-branch-and-local-main-branch)
 # [Git Additional repository](https://github.com/MariaDash/Git_Additional)
-Working with additional git commands, resolving different conflicts
+Working with additional git commands (git rebase, git fetch, git log, git show, git blame, git diff, git reset, git checkout (permanent roll back), git stash, git stash pop, git stash clear, resolving different conflicts
