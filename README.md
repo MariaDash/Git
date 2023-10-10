@@ -1,9 +1,9 @@
-# [Homework 1 Basic Git commands in GitBash](https://github.com/MariaDash/Git/blob/main/Git%20%20Part1.md) 
+# [Part 1 Basic Git commands in GitBash](https://github.com/MariaDash/Git/blob/main/Git%20%20Part1.md) 
    1. https://github.com/MariaDash/Json
    2. https://github.com/MariaDash/XML
    3. https://github.com/MariaDash/TXT
 
-# [Homework 2 Basic Git commands in GitBash](https://github.com/MariaDash/Git/blob/main/Git%20Part2.md)
+# [Part 2 Basic Git commands in GitBash](https://github.com/MariaDash/Git/blob/main/Git%20Part2.md)
 + [1. On local repository create branches:](https://github.com/MariaDash/Git/blob/main/Homework%20Git%202.md#1-on-local-repository-create-branches)
 
     [- Precondition](https://github.com/MariaDash/Git/blob/main/Homework%20Git%202.md#precondition)
